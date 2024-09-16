@@ -23,7 +23,7 @@ img {
   width: 1200px;
   max-width: 100%;
   margin: 0 auto;
-  padding: 0 10px;
+  padding: 0 20px;
 }
 
 body {
@@ -1204,6 +1204,17 @@ footer {
 
   .container {
     width: 650px;
+  }
+  .project-control ul {
+    margin-bottom: 20px;
+    gap: 8px 0px;
+  }
+
+  .team {
+    padding: 0px 0 0;
+  }
+  .blog {
+    padding: 50px 0;
   }
 }
 
